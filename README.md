@@ -1,2 +1,3 @@
 # hello-world
-First project
+
+Nothing to see here ... yet.
